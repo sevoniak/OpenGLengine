@@ -11,7 +11,7 @@ This project uses OpenGL 4.0, as well as the SOIL image library, freeglut, and g
 There is a pre-release version in the Release section that targets the Windows platform.
 
 ## Controls
-W,A,S,D - camera movement
-R, F - camera up/ down
-Arrow Keys - camera pitch, yaw
-Q, E - camera roll
+W,A,S,D - camera movement  
+R, F - camera up/ down  
+Arrow Keys - camera pitch, yaw  
+Q, E - camera roll  
